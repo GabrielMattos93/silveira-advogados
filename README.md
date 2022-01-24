@@ -17,7 +17,7 @@ Google fonts<br>
 <br>
 <br><br>
 <pre>
-Silveira advogados é um projeto para portfólio de site institucional para advogados responsivo.  
+Silveira advogados é um projeto para portfólio de site institucional para advogados responsivo e dinâmico.  
 </pre>
 </details>
 
