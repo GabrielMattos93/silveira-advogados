@@ -5,6 +5,14 @@ Versão - 1.0
 
  ***
 
+ ### Linguagens Ultilizadas
+
+ Hmtl5
+ CSS3 
+ Javascript
+ PHP
+
+
 ### Frameworks e Bibliotecas
 
 Bootstrap<br>
