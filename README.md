@@ -7,10 +7,10 @@ Versão - 1.0
 
  ### Linguagens Ultilizadas
 
- Hmtl5
- CSS3 
- Javascript
- PHP
+ Hmtl5<br>
+ CSS3 <br>
+ Javascript<br>
+ PHP<br>
 
 
 ### Frameworks e Bibliotecas
