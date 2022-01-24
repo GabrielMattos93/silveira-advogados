@@ -8,7 +8,7 @@
      if(is_file('pages/'.$name_page.'.php')){
        include_once 'pages/'.$name_page.'.php';
      }else{
-         include_once 'pages/404.php';
+         include_once 'pages/home.php';
      }
  
  
