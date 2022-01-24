@@ -7,7 +7,7 @@ Versão - 1.0
 
  ### Linguagens Ultilizadas
 
- Hmtl5<br>
+ Html5<br>
  CSS3 <br>
  Javascript<br>
  PHP<br>
