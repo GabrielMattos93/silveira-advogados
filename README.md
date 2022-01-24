@@ -14,7 +14,6 @@ Google fonts<br>
 <details>
 <summary>Introdução</summary>
 <br>
-Documentação
 <br><br>
 <pre>
 1-Configuração do recebimento de email
