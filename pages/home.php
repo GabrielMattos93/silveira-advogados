@@ -3,7 +3,8 @@
 require_once('header.php')
 ?>
 
-<!-- Slider Start -->
+<!-- Banner Topo
+================================================== -->
 <section class="banner">
 	<div class="container">
 		<div class="row">
@@ -22,6 +23,9 @@ require_once('header.php')
 		</div>
 	</div>
 </section>
+
+<!--Institucional
+================================================== -->
 
 <section class="section about">
 	<div class="container">
@@ -48,6 +52,9 @@ require_once('header.php')
 		</div>
 	</div>
 </section>
+
+<!-- Contador
+================================================== -->
 <section class="cta-section ">
 	<div class="container">
 		<div class="cta position-relative">
@@ -85,6 +92,9 @@ require_once('header.php')
 		</div>
 	</div>
 </section>
+
+<!-- Ramo de Atuação
+	================================================== -->
 <section class="section service gray-bg">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -175,6 +185,9 @@ require_once('header.php')
 		</div>
 	</div>
 </section>
+
+	<!-- Fale Com um Especialista - Orçamento
+	================================================== -->
 <section class="section appoinment">
 	<div class="container">
 		<div class="row align-items-center">
@@ -255,6 +268,9 @@ require_once('header.php')
 		</div>
 	</div>
 </section>
+	
+<!-- Depoimento de Clientes
+	================================================== -->
 <section class="section testimonial-2 gray-bg">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -352,6 +368,9 @@ require_once('header.php')
 		</div>
 	</div>
 </section>
+
+<!-- Parceiros
+	================================================== -->
 <section class="section clients">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -420,6 +439,7 @@ require_once('header.php')
 		</div>
 	</div>
 </section>
+
 <?php
 require_once('footer.php')
 ?>
