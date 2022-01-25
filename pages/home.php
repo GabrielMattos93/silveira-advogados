@@ -53,46 +53,6 @@ require_once('header.php')
 	</div>
 </section>
 
-<!-- Contador
-================================================== -->
-<section class="cta-section ">
-	<div class="container">
-		<div class="cta position-relative">
-			<div class="row">
-				<div class="col-lg-3 col-md-6 col-sm-6">
-					<div class="counter-stat">
-						<i class="icofont-doctor"></i>
-						<span class="h3">58</span>k
-						<p>Happy People</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6">
-					<div class="counter-stat">
-						<i class="icofont-flag"></i>
-						<span class="h3">700</span>+
-						<p>Surgery Comepleted</p>
-					</div>
-				</div>
-				
-				<div class="col-lg-3 col-md-6 col-sm-6">
-					<div class="counter-stat">
-						<i class="icofont-badge"></i>
-						<span class="h3">40</span>+
-						<p>Expert Doctors</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6">
-					<div class="counter-stat">
-						<i class="icofont-globe"></i>
-						<span class="h3">20</span>
-						<p>Worldwide Branch</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
 <!-- Ramo de Atuação
 	================================================== -->
 <section class="section service gray-bg">
@@ -193,7 +153,7 @@ require_once('header.php')
 		<div class="row align-items-center">
 			<div class="col-lg-6 ">
 				<div class="appoinment-content">
-					<img src="images/about/img-3.jpg" alt="" class="img-fluid">
+					<img src="assets/images/about/img-3.jpg" alt="" class="img-fluid">
 					<div class="emergency">
 						<h2 class="text-lg"><i class="icofont-phone-circle text-lg"></i>+23 345 67980</h2>
 					</div>
@@ -289,9 +249,8 @@ require_once('header.php')
 			<div class="col-lg-12 testimonial-wrap-2">
 				<div class="testimonial-block style-2  gray-bg">
 					<i class="icofont-quote-right"></i>
-
 					<div class="testimonial-thumb">
-						<img src="images/team/test-thumb1.jpg" alt="" class="img-fluid">
+						<img src="assets/images/team/test-thumb1.jpg" alt="" class="img-fluid">
 					</div>
 
 					<div class="client-info ">
@@ -305,7 +264,7 @@ require_once('header.php')
 
 				<div class="testimonial-block style-2  gray-bg">
 					<div class="testimonial-thumb">
-						<img src="images/team/test-thumb2.jpg" alt="" class="img-fluid">
+					<img src="assets/images/team/test-thumb2.jpg" alt="" class="img-fluid">
 					</div>
 
 					<div class="client-info">
@@ -321,7 +280,7 @@ require_once('header.php')
 
 				<div class="testimonial-block style-2  gray-bg">
 					<div class="testimonial-thumb">
-						<img src="images/team/test-thumb3.jpg" alt="" class="img-fluid">
+					<img src="assets/images/team/test-thumb3.jpg" alt="" class="img-fluid">
 					</div>
 
 					<div class="client-info">
@@ -337,7 +296,7 @@ require_once('header.php')
 
 				<div class="testimonial-block style-2  gray-bg">
 					<div class="testimonial-thumb">
-						<img src="images/team/test-thumb4.jpg" alt="" class="img-fluid">
+					<img src="assets/images/team/test-thumb4.jpg" alt="" class="img-fluid">
 					</div>
 
 					<div class="client-info">
@@ -352,7 +311,7 @@ require_once('header.php')
 
 				<div class="testimonial-block style-2  gray-bg">
 					<div class="testimonial-thumb">
-						<img src="images/team/test-thumb1.jpg" alt="" class="img-fluid">
+					<img src="assets/images/team/test-thumb5.jpg" alt="" class="img-fluid">
 					</div>
 
 					<div class="client-info">
@@ -370,7 +329,7 @@ require_once('header.php')
 </section>
 
 <!-- Parceiros
-	================================================== -->
+================================================== -->
 <section class="section clients">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -388,52 +347,52 @@ require_once('header.php')
 		<div class="row clients-logo">
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/1.png" alt="" class="img-fluid">
+					<img src="assets/images/about/1.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/2.png" alt="" class="img-fluid">
+					<img src="assets/images/about/2.jpg" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/3.png" alt="" class="img-fluid">
+					<img src="assets/images/about/3.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/4.png" alt="" class="img-fluid">
+					<img src="assets/images/about/4.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/5.png" alt="" class="img-fluid">
+					<img src="assets/images/about/5.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/6.png" alt="" class="img-fluid">
+					<img src="assets/images/about/6.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/3.png" alt="" class="img-fluid">
+					<img src="assets/images/about/3.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/4.png" alt="" class="img-fluid">
+					<img src="assets/images/about/4.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/5.png" alt="" class="img-fluid">
+					<img src="assets/images/about/5.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/6.png" alt="" class="img-fluid">
+					<img src="assets/images/about/6.png" alt="" class="img-fluid">
 				</div>
 			</div>
 		</div>

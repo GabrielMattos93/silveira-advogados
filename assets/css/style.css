@@ -1,11 +1,11 @@
-/*=== MEDIA QUERY ===*/
+
+  /*=== MEDIA QUERY ===*/
 /*
 Projeto: Silveira Advogados
 Author: Brutecode
 Author URI: https://brutecode.com.br/
 Description: Site Institucional Escritório de Advocacia.
 Version: 1.0.0
-
 */
 @import url("https://fonts.googleapis.com/css?family=Exo:500,600,700|Roboto&display=swap");
 html {
@@ -359,7 +359,7 @@ a:focus {
 }
 
 .gray-bg {
-  background: #f4f9fc;
+  background: #e3e8ee;
 }
 
 @media (max-width: 480px) {
@@ -644,11 +644,11 @@ a:focus {
 
 .feature-item .feature-icon i {
   font-size: 50px;
-  color: #223a66;
+  color: #0D1943;
 }
 
 .feature-item h4 {
-  color: #223a66;
+  color: #0D1943;
 }
 
 .feature-item p {
@@ -664,33 +664,6 @@ a:focus {
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
-.counter-stat {
-  text-align: center;
-  padding: 55px 0px 40px 0px;
-  position: relative;
-}
-
-.counter-stat i {
-  display: block;
-  color: rgba(255, 255, 255, 0.06);
-  font-size: 70px;
-  position: absolute;
-  left: 0px;
-  right: 0px;
-  top: 0px;
-  -webkit-transform: translateY(25px);
-  transform: translateY(25px);
-}
-
-.counter-stat span {
-  font-size: 70px;
-  color: #fff;
-}
-
-.counter-stat p {
-  margin-bottom: 0px;
-  color: rgba(255, 255, 255, 0.7);
-}
 
 .mb--80 {
   margin-bottom: -80px;
@@ -701,7 +674,7 @@ a:focus {
 }
 
 .service .service-item {
-  background: #fff;
+  background: #0D1943;
   padding: 30px;
   border-radius: 5px;
 }
@@ -712,7 +685,7 @@ a:focus {
 }
 
 .service i {
-  color: #e12454;
+  color: #D3AC37;
 }
 
 .service h4 {
@@ -722,6 +695,19 @@ a:focus {
 .service .content {
   clear: both;
 }
+
+.service-item.mb-4 {
+  background-color: rgb(13, 25, 67);
+  background-blend-mode: normal;
+ }
+ 
+ .mt-3.mb-3 {
+  color: rgb(250, 250, 250);
+ }
+ 
+ .mb-4 {
+  color: rgb(250, 250, 250);
+ }
 
 .service-block {
   padding: 20px;
@@ -745,7 +731,7 @@ a:focus {
 }
 
 .department-service li i {
-  color: #e12454;
+  color: #0D1943;
 }
 
 .doctors .btn-group .btn {
@@ -970,7 +956,7 @@ a:focus {
 
 .testimonial-block.style-2 i {
   bottom: -20px;
-  color: #e12454;
+  color: #BCBEA9;
   opacity: .3;
 }
 
@@ -1497,7 +1483,7 @@ a:focus {
 
 .backtop {
   position: fixed;
-  background: #e12454;
+  background:#D3AC37;
   z-index: 9999;
   display: inline-block;
   right: 55px;
