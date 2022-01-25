@@ -33,30 +33,31 @@
 <body id="top">
 
 <header>
-	<div class="header-top-bar">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-6">
-					<ul class="top-bar-info list-inline-item pl-0 mb-0">
-						<li class="list-inline-item"><a href="mailto:support@gmail.com"><i class="icofont-support-faq mr-2"></i>support@novena.com</a></li>
-						<li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Address Ta-134/A, New York, USA </li>
-					</ul>
-				</div>
-				<div class="col-lg-6">
-					<div class="text-lg-right top-right-bar mt-2 mt-lg-0">
-						<a href="tel:+23-345-67890" >
-							<span>Call Now : </span>
-							<span class="h4">823-4565-13456</span>
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+<div class="sub-header">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-xs-12">
+            <ul class="left-info">
+              <li><a href="#"><i class="icofont-wall-clock"></i>Seg-Sex 09:00-17:30</a></li>
+              <li><a href="#"><i class="fa fa-phone"></i>090-080-0760</a></li>
+            </ul>
+          </div>
+          <div class="col-md-4">
+            <ul class="right-icons">
+              <li><a href="#"><i class="icofont-instagram"></i></i></a></li>
+			  <li><a href="#"><i class="icofont-linkedin"></i></a></li>
+              <li><a href="#"><i class="icofont-facebook"></i></a></li>
+              <li><a href="#"><i class="icofont-brand-youtube"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
 	<nav class="navbar navbar-expand-lg navigation" id="navbar">
 		<div class="container">
 		 	 <a class="navbar-brand" href="index.html">
-			  	<img src="images/logo.png" alt="" class="img-fluid">
+			  	<img src="asset/images/logo.png" alt="" class="img-fluid">
 			  </a>
 
 		  	<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">

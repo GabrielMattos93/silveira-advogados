@@ -16,7 +16,7 @@ Versão - 1.0
 ### Frameworks e Bibliotecas
 
 Bootstrap<br>
-Font awesome<br>
+IcoFont<br>
 Google fonts<br>
 
 
