@@ -32,6 +32,8 @@
 
 <body id="top">
 
+<!-- Topo Header
+================================================== -->
 <header>
 <div class="sub-header">
       <div class="container">
@@ -54,10 +56,12 @@
       </div>
     </div>
 
+  	<!-- Navbar
+	================================================== -->
 	<nav class="navbar navbar-expand-lg navigation" id="navbar">
 		<div class="container">
 		 	 <a class="navbar-brand" href="index.html">
-			  	<img src="asset/images/logo.png" alt="" class="img-fluid">
+			  	<img src="assets/images/logo.png" alt="" class="img-fluid">
 			  </a>
 
 		  	<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">
