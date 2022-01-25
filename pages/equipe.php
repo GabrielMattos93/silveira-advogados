@@ -67,7 +67,7 @@ require_once('header.php')
 	      	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 	               <div class="doctor-img">
-	               		<img src="images/team/1.jpg" alt="doctor-image" class="img-fluid w-100">
+	               		<img src="assets/images/team/1.jpg" alt="doctor-image" class="img-fluid w-100">
 	               </div>
 	            </div>
                 <div class="content mt-3">
@@ -81,7 +81,7 @@ require_once('header.php')
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/2.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="assets/images/team/2.jpg" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
@@ -95,7 +95,7 @@ require_once('header.php')
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/3.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="assets/images/team/3.jpg" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
@@ -109,7 +109,7 @@ require_once('header.php')
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/4.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="assets/images/team/4.jpg" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
@@ -123,7 +123,7 @@ require_once('header.php')
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/1.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="assets/images/team/5.jpg" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
@@ -137,7 +137,7 @@ require_once('header.php')
        		 <div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/3.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="assets/images/team/6.jpg" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
@@ -151,7 +151,7 @@ require_once('header.php')
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/1.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="assets/images/team/2.jpg" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
@@ -165,7 +165,7 @@ require_once('header.php')
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/3.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="assets/images/team/3.jpg" alt="doctor-image" class="img-fluid w-100">
 		             </div>
 	             </div>
                 <div class="content mt-3">
@@ -179,7 +179,7 @@ require_once('header.php')
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/4.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="assets/images/team/5.jpg" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
@@ -193,7 +193,7 @@ require_once('header.php')
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/3.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="assets/images/team/5.jpg" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
@@ -207,7 +207,7 @@ require_once('header.php')
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/4.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="assets/images/team/1.jpg" alt="doctor-image" class="img-fluid w-100">
 		             </div>
 	             </div>
                 <div class="content mt-3">
