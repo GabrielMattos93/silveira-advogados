@@ -10,8 +10,7 @@
      }else{
          include_once 'pages/home.php';
      }
- 
- 
+
   }else{
      include_once 'pages/home.php';
   }
