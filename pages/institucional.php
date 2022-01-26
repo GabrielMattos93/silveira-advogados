@@ -20,7 +20,6 @@ require_once('header.php')
     </div>
   </div>
 </section>
-
 <section class="section about-page">
 	<div class="container">
 		<div class="row">

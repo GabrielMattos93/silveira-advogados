@@ -60,10 +60,6 @@ function meta_description()
           case 'contato':
             $description =  'Contate-nos - Estamos em atuação a mais de 15 anos, ajudando a viablizar ideias e analisar riscos jurídicos. Possuimos um alto padrão de qualidade e excelência.';
                 break;
-
-            case 'privacidade':
-            $description =  'Política de Privacidade dos Dados - Estamos em atuação a mais de 15 anos, ajudando a viablizar ideias e analisar riscos jurídicos. Possuimos um alto padrão de qualidade e excelência.';
-                    break;
     endswitch;
     return $description;
 }
