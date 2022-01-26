@@ -1,11 +1,14 @@
+<?php
+require_once ('./includes/functions.php'); 
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="Orbitor,business,company,agency,modern,bootstrap4,tech,software">
+  <meta name="description" content="<?php echo meta_description(); ?>">
   <meta name="author" content="Gabriel Mattos - brutecode.com.br">
 
-  <title>Novena- Health & Care Medical template</title>
+  <title><?php echo titulo(); ?></title>
 
 	<!-- Favicon
 	================================================== -->
@@ -41,7 +44,7 @@
           <div class="col-md-8 col-xs-12">
             <ul class="left-info">
               <li><a href="#"><i class="icofont-wall-clock"></i>Seg-Sex 09:00-17:30</a></li>
-              <li><a href="#"><i class="fa fa-phone"></i>090-080-0760</a></li>
+              <li><a href="#"><i class="icofont-phone"></i>090-080-0760</a></li>
             </ul>
           </div>
           <div class="col-md-4">
@@ -77,7 +80,7 @@
 			   <li class="nav-item"><a class="nav-link" href="servico">Serviços</a></li>
 			   <li class="nav-item"><a class="nav-link" href="equipe">Especialistas</a></li>
 
-				 <li class="nav-item"><a class="nav-link" href="ramo-de-atuacao">Ramo de Atuação</a></li>
+				 <li class="nav-item"><a class="nav-link" href="areas-de-atuacao">Áreas de Atuação</a></li>
 			   <li class="nav-item"><a class="nav-link" href="contato">Contate-nos</a></li>
 			</ul>
 		  </div>

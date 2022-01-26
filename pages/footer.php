@@ -6,7 +6,7 @@
 			<div class="col-lg-4 mr-auto col-sm-6">
 				<div class="widget mb-5 mb-lg-0">
 					<div class="logo mb-4">
-						<img src="images/logo.png" alt="" class="img-fluid">
+						<img src="assets/images/logo.png" alt="" class="img-fluid">
 					</div>
 					<p>Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.</p>
 
@@ -20,22 +20,22 @@
 
 			<div class="col-lg-2 col-md-6 col-sm-6">
 				<div class="widget mb-5 mb-lg-0">
-					<h4 class="text-capitalize mb-3">Department</h4>
+					<h4 class="text-capitalize mb-3">Atuação</h4>
 					<div class="divider mb-4"></div>
 
 					<ul class="list-unstyled footer-menu lh-35">
-						<li><a href="#">Surgery </a></li>
-						<li><a href="#">Wome's Health</a></li>
-						<li><a href="#">Radiology</a></li>
-						<li><a href="#">Cardioc</a></li>
-						<li><a href="#">Medicine</a></li>
+						<li><a href="#">Área 1 </a></li>
+						<li><a href="#">Área 2</a></li>
+						<li><a href="#">Área 3</a></li>
+						<li><a href="#">Área 4</a></li>
+						<li><a href="#">Área 5</a></li>
 					</ul>
 				</div>
 			</div>
 
 			<div class="col-lg-2 col-md-6 col-sm-6">
 				<div class="widget mb-5 mb-lg-0">
-					<h4 class="text-capitalize mb-3">Support</h4>
+					<h4 class="text-capitalize mb-3">Serviços</h4>
 					<div class="divider mb-4"></div>
 
 					<ul class="list-unstyled footer-menu lh-35">
@@ -50,21 +50,21 @@
 
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="widget widget-contact mb-5 mb-lg-0">
-					<h4 class="text-capitalize mb-3">Get in Touch</h4>
+					<h4 class="text-capitalize mb-3">Contate-nos</h4>
 					<div class="divider mb-4"></div>
 
 					<div class="footer-contact-block mb-4">
 						<div class="icon d-flex align-items-center">
-							<i class="icofont-email mr-3"></i>
-							<span class="h6 mb-0">Support Available for 24/7</span>
+						<i class="icofont-email mr-3" style="color:#0D1943"></i>
+							<span class="h6 mb-0">Tire suas dúvidas</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">Support@email.com</a></h4>
+						<h4 class="mt-2"><a href="tel:+23-345-67890">rauloliver@adv.com.br</a></h4>
 					</div>
 
 					<div class="footer-contact-block">
 						<div class="icon d-flex align-items-center">
 							<i class="icofont-support mr-3"></i>
-							<span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span>
+							<span class="h6 mb-0">Fale Conosco</span>
 						</div>
 						<h4 class="mt-2"><a href="tel:+23-345-67890">+23-456-6588</a></h4>
 					</div>
@@ -76,15 +76,9 @@
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6">
 					<div class="copyright">
-						&copy; Copyright Reserved to <span class="text-color">Novena</span> by <a href="https://themefisher.com/" target="_blank">Themefisher</a>
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="subscribe-form text-lg-right mt-5 mt-lg-0">
-						<form action="#" class="subscribe">
-							<input type="text" class="form-control" placeholder="Your Email address">
-							<a href="#" class="btn btn-main-2 btn-round-full">Subscribe</a>
-						</form>
+					<script>
+                document.write(new Date().getFullYear());
+                </script> &copy; <span class="text-color"> Escritório de Advocacia</span> <a href="https://brutecode.com.br/" target="_blank">Silveira Advogados </a>
 					</div>
 				</div>
 			</div>

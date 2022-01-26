@@ -1,15 +1,14 @@
 <?php
 require_once('header.php')
 ?>
-
 <section class="page-title bg-1">
   <div class="overlay"></div>
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="block text-center">
-          <span class="text-white">About Us</span>
-          <h1 class="text-capitalize mb-5 text-lg">About Us</h1>
+          <span class="text-white">Quem Somos?</span>
+          <h1 class="text-capitalize mb-5 text-lg">Institucional</h1>
 
           <!-- <ul class="list-inline breadcumb-nav">
             <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
@@ -30,7 +29,7 @@ require_once('header.php')
 			</div>
 			<div class="col-lg-8">
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quod laborum alias. Vitae dolorum, officia sit! Saepe ullam facere at, consequatur incidunt, quae esse, quis ut reprehenderit dignissimos, libero delectus.</p>
-				<img src="images/about/sign.png" alt="" class="img-fluid">
+				<img src="assets/images/about/sign.png" alt="" class="img-fluid">
 			</div>
 		</div>
 	</div>
