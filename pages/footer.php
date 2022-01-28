@@ -8,12 +8,12 @@
 					<div class="logo mb-4">
 						<img src="assets/images/logo.png" alt="" class="img-fluid">
 					</div>
-					<p>Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.</p>
+					<p>Estamos em atuação a mais de 15 anos, ajudando a viablizar ideias e analisar riscos jurídicos. Possuimos um alto padrão de qualidade e excelência.</p>
 
 					<ul class="list-inline footer-socials mt-4">
-						<li class="list-inline-item"><a href="https://www.facebook.com/themefisher"><i class="icofont-facebook"></i></a></li>
-						<li class="list-inline-item"><a href="https://twitter.com/themefisher"><i class="icofont-twitter"></i></a></li>
-						<li class="list-inline-item"><a href="https://www.pinterest.com/themefisher/"><i class="icofont-linkedin"></i></a></li>
+						<li class="list-inline-item"><a href="##0"><i class="icofont-facebook"></i></a></li>
+						<li class="list-inline-item"><a href="###0"><i class="icofont-twitter"></i></a></li>
+						<li class="list-inline-item"><a href="###0"><i class="icofont-linkedin"></i></a></li>
 					</ul>
 				</div>
 			</div>
@@ -24,11 +24,11 @@
 					<div class="divider mb-4"></div>
 
 					<ul class="list-unstyled footer-menu lh-35">
-						<li><a href="#">Área 1 </a></li>
-						<li><a href="#">Área 2</a></li>
-						<li><a href="#">Área 3</a></li>
-						<li><a href="#">Área 4</a></li>
-						<li><a href="#">Área 5</a></li>
+						<li><a href="#">Direito Criminal </a></li>
+						<li><a href="#">Direito Digital</a></li>
+						<li><a href="#">Tributário</a></li>
+						<li><a href="#">Compliance</a></li>
+						<li><a href="#">Marcas e Patentes</a></li>
 					</ul>
 				</div>
 			</div>
@@ -39,11 +39,10 @@
 					<div class="divider mb-4"></div>
 
 					<ul class="list-unstyled footer-menu lh-35">
-						<li><a href="#">Terms & Conditions</a></li>
-						<li><a href="privacidade">Privacidade</a></li>
-						<li><a href="#">Company Support </a></li>
-						<li><a href="#">FAQuestions</a></li>
-						<li><a href="#">Company Licence</a></li>
+						<li><a href="#">Imigração</a></li>
+						<li><a href="privacidade">Previdenciário</a></li>
+						<li><a href="#">Advogado Online </a></li>
+						<li><a href="#">Assessoria Empresarial </a></li>
 					</ul>
 				</div>
 			</div>
@@ -66,7 +65,7 @@
 							<i class="icofont-support mr-3"></i>
 							<span class="h6 mb-0">Fale Conosco</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">+23-456-6588</a></h4>
+						<h4 class="mt-2"><a href="tel:+23-345-67890">(21) 2899-7526</a></h4>
 					</div>
 				</div>
 			</div>
@@ -127,6 +126,32 @@
     <script src="assets/js/script.js"></script>
     <script src="assets/js/contact.js"></script>
 
+   <!-- Cookies
+    ================================================== -->
+	<link rel="stylesheet" type="text/css"
+            href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+        <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+        <script>
+        window.addEventListener("load", function() {
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#0D1943",
+                        "text": "#ffff"
+                    },
+                    "button": {
+                        "background": "#D3AC37"
+                    }
+                },
+                "content": {
+                    "message": "Usamos cookies para garantir que você obtenha a melhor experiência em nosso site.",
+                    "link": "Leia mais",
+                    "dismiss": "Compreendo!",
+                    "href": "##0"
+                }
+            })
+        });
+        </script>
   </body>
   </html>
    

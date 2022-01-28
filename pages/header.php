@@ -5,6 +5,7 @@ require_once ('./includes/functions.php');
 <html lang="pt-br">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="<?php echo meta_description(); ?>">
   <meta name="author" content="Gabriel Mattos - brutecode.com.br">
 
@@ -78,7 +79,7 @@ require_once ('./includes/functions.php');
 			  </li>
 			   <li class="nav-item"><a class="nav-link" href="institucional">Institucional</a></li>
 			   <li class="nav-item"><a class="nav-link" href="servico">Serviços</a></li>
-			   <li class="nav-item"><a class="nav-link" href="equipe">Especialistas</a></li>
+	
 
 				 <li class="nav-item"><a class="nav-link" href="areas-de-atuacao">Áreas de Atuação</a></li>
 			   <li class="nav-item"><a class="nav-link" href="contato">Contate-nos</a></li>

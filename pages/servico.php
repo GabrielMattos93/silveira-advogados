@@ -1,16 +1,14 @@
 <?php
 require_once('header.php')
 ?>
-
-
 <section class="page-title bg-1">
   <div class="overlay"></div>
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="block text-center">
-          <span class="text-white">All Department</span>
-          <h1 class="text-capitalize mb-5 text-lg">Care Department</h1>
+          <span class="text-white">O que oferecemos?</span>
+          <h1 class="text-capitalize mb-5 text-lg">Nossos Serviços</h1>
 
           <!-- <ul class="list-inline breadcumb-nav">
             <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
@@ -23,7 +21,8 @@ require_once('header.php')
   </div>
 </section>
 
-
+<!-- Nossos Serviços
+================================================== -->
 <section class="section service-2">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -39,33 +38,30 @@ require_once('header.php')
 		<div class="row">
 			<div class="col-lg-4 col-md-6 ">
 				<div class="department-block mb-5">
-					<img src="images/service/service-1.jpg" alt="" class="img-fluid w-100">
+					<img src="assets/images/service/service-1.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
 						<h4 class="mt-4 mb-2 title-color">Opthomology</h4>
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-						<a href="department-single.html" class="read-more">Learn More  <i class="icofont-simple-right ml-2"></i></a>
+						<p class="brt-4">Saepe nulla praesentium eaque omnis perferendis a dolorem.</p>
 					</div>
 				</div>
 			</div>
 
 			<div class="col-lg-4 col-md-6">
 				<div class="department-block mb-5">
-					<img src="images/service/service-2.jpg" alt="" class="img-fluid w-100">
+					<img src="assets/images/service/service-2.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
 						<h4 class="mt-4 mb-2  title-color">Cardiology</h4>
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-						<a href="department-single.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+						<p class="brt-4">Saepe nulla praesentium eaque omnis perferendis a dolorem.</p>
 					</div>
 				</div>
 			</div>
 			
 			<div class="col-lg-4 col-md-6">
 				<div class="department-block mb-5">
-					<img src="images/service/service-3.jpg" alt="" class="img-fluid w-100">
+					<img src="assets/images/service/service-3.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
 						<h4 class="mt-4 mb-2 title-color">Dental Care</h4>
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-						<a href="department-single.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+						<p class="brt-4">Saepe nulla praesentium eaque omnis perferendis a dolorem.</p>
 					</div>
 				</div>
 			</div>
@@ -73,33 +69,30 @@ require_once('header.php')
 
 			<div class="col-lg-4 col-md-6 ">
 				<div class="department-block  mb-5 mb-lg-0">
-					<img src="images/service/service-4.jpg" alt="" class="img-fluid w-100">
+					<img src="assets/images/service/service-4.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
 						<h4 class="mt-4 mb-2 title-color">Child Care</h4>
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-						<a href="department-single.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+						<p class="brt-4">Saepe nulla praesentium eaque omnis perferendis a dolorem.</p>
 					</div>
 				</div>
 			</div>
 
 			<div class="col-lg-4 col-md-6">
 				<div class="department-block mb-5 mb-lg-0">
-					<img src="images/service/service-6.jpg" alt="" class="img-fluid w-100">
+					<img src="assets/images/service/service-6.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
 						<h4 class="mt-4 mb-2 title-color">Pulmology</h4>
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-						<a href="department-single.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+						<p class="brt-4">Saepe nulla praesentium eaque omnis perferendis a dolorem.</p>
 					</div>
 				</div>
 			</div>
 			
 			<div class="col-lg-4 col-md-6">
 				<div class="department-block mb-5 mb-lg-0">
-					<img src="images/service/service-8.jpg" alt="" class="img-fluid w-100">
+					<img src="assets/images/service/service-8.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
 						<h4 class="mt-4 mb-2 title-color">Gynecology</h4>
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-						<a href="department-single.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+						<p class="brt-4">Saepe nulla praesentium eaque omnis perferendis a dolorem.</p>
 					</div>
 				</div>
 			</div>

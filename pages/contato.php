@@ -8,8 +8,8 @@ require_once('header.php')
     <div class="row">
       <div class="col-md-12">
         <div class="block text-center">
-          <span class="text-white">Contact Us</span>
-          <h1 class="text-capitalize mb-5 text-lg">Get in Touch</h1>
+          <span class="text-white">Contate-nos</span>
+          <h1 class="text-capitalize mb-5 text-lg">Entrar em Contato</h1>
 
           <!-- <ul class="list-inline breadcumb-nav">
             <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
@@ -23,6 +23,8 @@ require_once('header.php')
 </section>
 <!-- contact form start -->
 
+<!-- Contatos
+================================================== -->
 <section class="section contact-info pb-0">
     <div class="container">
          <div class="row">
@@ -30,33 +32,36 @@ require_once('header.php')
                 <div class="contact-block mb-4 mb-lg-0">
                     <i class="icofont-live-support"></i>
                     <h5>Call Us</h5>
-                     +823-4565-13456
+                     <p class="brt-4">+823-4565-13456
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 col-md-6">
                 <div class="contact-block mb-4 mb-lg-0">
                     <i class="icofont-support-faq"></i>
                     <h5>Email Us</h5>
-                     contact@mail.com
+                    <p class="brt-4"> contact@mail.com
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 col-md-6">
                 <div class="contact-block mb-4 mb-lg-0">
                     <i class="icofont-location-pin"></i>
                     <h5>Location</h5>
-                     North Main Street,Brooklyn Australia
+                   <p class="brt-4"> North Main Street,Brooklyn Australia
                 </div>
             </div>
         </div>
     </div>
 </section>
 
+<!-- Formulário
+================================================== -->
+
 <section class="contact-form-wrap section">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6">
                 <div class="section-title text-center">
-                    <h2 class="text-md mb-2">Contact us</h2>
+                    <h2 class="text-md mb-2">Contate-nos</h2>
                     <div class="divider mx-auto my-4"></div>
                     <p class="mb-5">Laboriosam exercitationem molestias beatae eos pariatur, similique, excepturi mollitia sit perferendis maiores ratione aliquam?</p>
                 </div>

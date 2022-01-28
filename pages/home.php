@@ -11,12 +11,12 @@ require_once('header.php')
 			<div class="col-lg-6 col-md-12 col-xl-7">
 				<div class="block">
 					<div class="divider mb-3"></div>
-					<span class="text-uppercase text-sm letter-spacing ">Total Health care solution</span>
-					<h1 class="mb-3 mt-3">Your most trusted health partner</h1>
+					<span class="text-uppercase text-sm letter-spacing ">Assessoria Jurídica Especializada</span>
+					<h1 class="mb-3 mt-3">Ajudando a viablizar ideias e analisar riscos jurídicos.</h1>
 					
-					<p class="mb-4 pr-5">A repudiandae ipsam labore ipsa voluptatum quidem quae laudantium quisquam aperiam maiores sunt fugit, deserunt rem suscipit placeat.</p>
+					<p class="brt-4 pr-5">Somos um conceituado escritório de advogados do Brasil e temos por objetivo prestar serviços jurídicos com alto padrão de qualidade e excelência.</p>
 					<div class="btn-container ">
-						<a href="appoinment.html" target="_blank" class="btn btn-main-2 btn-icon btn-round-full">Make appoinment <i class="icofont-simple-right ml-2  "></i></a>
+						<a href="institucional" target="_blank" class="btn btn-main-2 btn-icon btn-round-full">Leia Mais <i class="icofont-simple-right ml-2  "></i></a>
 					</div>
 				</div>
 			</div>
@@ -43,10 +43,10 @@ require_once('header.php')
 			</div>
 			<div class="col-lg-4">
 				<div class="about-content pl-4 mt-4 mt-lg-0">
-					<h2 class="title-color">Personal care <br>& healthy living</h2>
-					<p class="mt-4 mb-5">We provide best leading medicle service Nulla perferendis veniam deleniti ipsum officia dolores repellat laudantium obcaecati neque.</p>
+					<h2 class="title-color">Silveira Advogados <br>Escritório de Advocacia </h2>
+					<p class="mt-4 mb-5">Somos um conceituado escritório de advogados do Brasil e temos por objetivo prestar serviços jurídicos com alto padrão de qualidade e excelência. Nossa experiência em Advocacia Criminal é referência no ramo jurídico ao redor de todo o país.</p>
 
-					<a href="service.html" class="btn btn-main-2 btn-round-full btn-icon">Services<i class="icofont-simple-right ml-3"></i></a>
+					<a href="institucional" class="btn btn-main-2 btn-round-full btn-icon">Leia Mais<i class="icofont-simple-right ml-3"></i></a>
 				</div>
 			</div>
 		</div>
@@ -60,9 +60,9 @@ require_once('header.php')
 		<div class="row justify-content-center">
 			<div class="col-lg-7 text-center">
 				<div class="section-title">
-					<h2>Award winning patient care</h2>
+					<h2>Onde Atua Nossos Especialistas? </h2>
 					<div class="divider mx-auto my-4"></div>
-					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
+					<p>Proporcionamos ao nosso cliente uma assessoria total, gerando muito mais do que apoio jurídico. </p>
 				</div>
 			</div>
 		</div>
@@ -71,8 +71,8 @@ require_once('header.php')
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="service-item mb-4">
 					<div class="icon d-flex align-items-center">
-						<i class="icofont-laboratory text-lg"></i>
-						<h4 class="mt-3 mb-3">Laboratory services</h4>
+					<i class="icofont-law-order text-lg"></i>
+						<h4 class="mt-3 mb-3">Direito Criminal</h4>
 					</div>
 
 					<div class="content">
@@ -84,46 +84,8 @@ require_once('header.php')
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="service-item mb-4">
 					<div class="icon d-flex align-items-center">
-						<i class="icofont-heart-beat-alt text-lg"></i>
-						<h4 class="mt-3 mb-3">Heart Disease</h4>
-					</div>
-					<div class="content">
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-					</div>
-				</div>
-			</div>
-			
-			<div class="col-lg-4 col-md-6 col-sm-6">
-				<div class="service-item mb-4">
-					<div class="icon d-flex align-items-center">
-						<i class="icofont-tooth text-lg"></i>
-						<h4 class="mt-3 mb-3">Dental Care</h4>
-					</div>
-					<div class="content">
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-					</div>
-				</div>
-			</div>
-
-
-			<div class="col-lg-4 col-md-6 col-sm-6">
-				<div class="service-item mb-4">
-					<div class="icon d-flex align-items-center">
-						<i class="icofont-crutch text-lg"></i>
-						<h4 class="mt-3 mb-3">Body Surgery</h4>
-					</div>
-
-					<div class="content">
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-lg-4 col-md-6 col-sm-6">
-				<div class="service-item mb-4">
-					<div class="icon d-flex align-items-center">
-						<i class="icofont-brain-alt text-lg"></i>
-						<h4 class="mt-3 mb-3">Neurology Sargery</h4>
+					<i class="icofont-law-scales text-lg"></i>
+						<h4 class="mt-3 mb-3">Direito Digital e /LGPD</h4>
 					</div>
 					<div class="content">
 						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
@@ -134,8 +96,46 @@ require_once('header.php')
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="service-item mb-4">
 					<div class="icon d-flex align-items-center">
-						<i class="icofont-dna-alt-1 text-lg"></i>
-						<h4 class="mt-3 mb-3">Gynecology</h4>
+					<i class="icofont-law-book text-lg"></i>
+						<h4 class="mt-3 mb-3">Direito Tributário</h4>
+					</div>
+					<div class="content">
+						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="col-lg-4 col-md-6 col-sm-6">
+				<div class="service-item mb-4">
+					<div class="icon d-flex align-items-center">
+						<i class="icofont-lawyer-alt-1 text-lg"></i>
+						<h4 class="mt-3 mb-3">Compliance</h4>
+					</div>
+
+					<div class="content">
+						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-4 col-md-6 col-sm-6">
+				<div class="service-item mb-4">
+					<div class="icon d-flex align-items-center">
+						<i class="icofont-business-man-alt-1 text-lg"></i>
+						<h4 class="mt-3 mb-3">Novos Negócios</h4>
+					</div>
+					<div class="content">
+						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-4 col-md-6 col-sm-6">
+				<div class="service-item mb-4">
+					<div class="icon d-flex align-items-center">
+					<i class="icofont-law-alt-2 text-lg"></i>
+						<h4 class="mt-3 mb-3">Marcas e Patentes</h4>
 					</div>
 					<div class="content">
 						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
@@ -155,73 +155,69 @@ require_once('header.php')
 				<div class="appoinment-content">
 					<img src="assets/images/about/img-3.jpg" alt="" class="img-fluid">
 					<div class="emergency">
-						<h2 class="text-lg"><i class="icofont-phone-circle text-lg"></i>+23 345 67980</h2>
+						<h2 class="text-lg"><i class="icofont-phone-circle text-lg"></i>21 98849-3781</h2>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-10 ">
 				<div class="appoinment-wrap mt-5 mt-lg-0">
-					<h2 class="mb-2 title-color">Book appoinment</h2>
-					<p class="mb-4">Mollitia dicta commodi est recusandae iste, natus eum asperiores corrupti qui velit . Iste dolorum atque similique praesentium soluta.</p>
+					<h2 class="mb-2 title-color">Faça uma cotação</h2>
+					<p class="brt-4">Nosso atendimento é a pequenas e médias empresas, pessoas físicas, profissionais liberais. Solicite uma cotação de assessoria e serviços.</p>
 					     <form id="#" class="appoinment-form" method="post" action="#">
                     <div class="row">
                          <div class="col-lg-6">
                             <div class="form-group">
                                 <select class="form-control" id="exampleFormControlSelect1">
-                                  <option>Choose Department</option>
-                                  <option>Software Design</option>
-                                  <option>Development cycle</option>
-                                  <option>Software Development</option>
-                                  <option>Maintenance</option>
-                                  <option>Process Query</option>
-                                  <option>Cost and Duration</option>
-                                  <option>Modal Delivery</option>
+                                  <option>Imigração Para Europa</option>
+                                  <option>Previdenciário - Aposentadoria e INSS</option>
+                                  <option>Advogado Online</option>
+                                  <option>Defesa dos direitos e interesses dos empregados</option>
+                                  <option>Assessoria Trabalhista Empresarial</option>
+                                  <option>Advogado Online</option>
                                 </select>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="form-group">
                                 <select class="form-control" id="exampleFormControlSelect2">
-                                  <option>Select Doctors</option>
-                                  <option>Software Design</option>
-                                  <option>Development cycle</option>
-                                  <option>Software Development</option>
-                                  <option>Maintenance</option>
-                                  <option>Process Query</option>
-                                  <option>Cost and Duration</option>
-                                  <option>Modal Delivery</option>
+                                  <option>Especialista</option>
+                                  <option>Raul Oliver</option>
+                                  <option>Fernando Castro</option>
+                                  <option>Sandro Avelar</option>
+                                  <option>Luciana Gutemberg</option>
+    
                                 </select>
                             </div>
                         </div>
 
                          <div class="col-lg-6">
                             <div class="form-group">
-                                <input name="date" id="date" type="text" class="form-control" placeholder="dd/mm/yyyy">
+                                <input name="date" id="date" type="text" class="form-control" placeholder="Selecione uma data">
                             </div>
                         </div>
 
                         <div class="col-lg-6">
                             <div class="form-group">
-                                <input name="time" id="time" type="text" class="form-control" placeholder="Time">
+                                <input name="time" id="time" type="text" class="form-control" placeholder="Selecione o horário">
                             </div>
                         </div>
                          <div class="col-lg-6">
                             <div class="form-group">
-                                <input name="name" id="name" type="text" class="form-control" placeholder="Full Name">
+                                <input name="name" id="name" type="text" class="form-control" placeholder="Digite seu nome">
                             </div>
                         </div>
 
                         <div class="col-lg-6">
                             <div class="form-group">
-                                <input name="phone" id="phone" type="Number" class="form-control" placeholder="Phone Number">
+                                <input name="phone" id="phone" type="Number" class="form-control" placeholder="Digite seu telefone">
                             </div>
                         </div>
                     </div>
                     <div class="form-group-2 mb-4">
-                        <textarea name="message" id="message" class="form-control" rows="6" placeholder="Your Message"></textarea>
+                        <textarea name="message" id="message" class="form-control" rows="6" placeholder="Digite sua mensagem"></textarea>
                     </div>
 
-                    <a class="btn btn-main btn-round-full" href="appoinment.html" >Make Appoinment <i class="icofont-simple-right ml-2  "></i></a>
+                    <a class="btn btn-main btn-round-full" href="#0" >Enviar Solicitação <i class="icofont-simple-right ml-2  "></i></a>
                 </form>
             </div>
 			</div>
@@ -236,9 +232,9 @@ require_once('header.php')
 		<div class="row justify-content-center">
 			<div class="col-lg-7">
 				<div class="section-title text-center">
-					<h2>We served over 5000+ Patients</h2>
+					<h2>Clientes que receberam nossa assessoria!</h2>
 					<div class="divider mx-auto my-4"></div>
-					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
+					<p>Esses são alguns dos clientes que receberam assessoria jurídica do nosso escritório, veja o que eles disseram sobre nós.</p>
 				</div>
 			</div>
 		</div>
@@ -254,10 +250,10 @@ require_once('header.php')
 					</div>
 
 					<div class="client-info ">
-						<h4>Amazing service!</h4>
-						<span>John Partho</span>
+					<h4>Profissionais Excelentes!</h4>
+						<span>Paulo Nobre</span>
 						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+						Excelente, desde a recepcionista ao advogado que me atendeu, muito educados e sempre atenciosos ao meu caso. Recomendo!
 						</p>
 					</div>
 				</div>
@@ -268,10 +264,10 @@ require_once('header.php')
 					</div>
 
 					<div class="client-info">
-						<h4>Expert doctors!</h4>
-						<span>Mullar Sarth</span>
+						<h4>Extremamente Profissionais!</h4>
+						<span>Allan Pereira</span>
 						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+						Um dos melhores escritórios do Brasil, profissionais altamente capacitados e super educados, não abandonam seu processo.
 						</p>
 					</div>
 					
@@ -284,10 +280,10 @@ require_once('header.php')
 					</div>
 
 					<div class="client-info">
-						<h4>Good Support!</h4>
-						<span>Kolis Mullar</span>
+						<h4>Incrível!</h4>
+						<span>Vanessa Molis</span>
 						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+						Minha experiência com esse escritório foi incrível, já estava praticamente desistindo de tentar resolver minha situação e eles me ajudaram. Parabéns
 						</p>
 					</div>
 					
@@ -300,10 +296,10 @@ require_once('header.php')
 					</div>
 
 					<div class="client-info">
-						<h4>Nice Environment!</h4>
-						<span>Partho Sarothi</span>
+						<h4>Melhor Atendimento!</h4>
+						<span>Nívea Fernandes</span>
 						<p class="mt-4">
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+						Um dos melhores escritórios do Brasil, profissionais altamente capacitados e super educados, não abandonam seu processo
 						</p>
 					</div>
 					<i class="icofont-quote-right"></i>
@@ -315,10 +311,10 @@ require_once('header.php')
 					</div>
 
 					<div class="client-info">
-						<h4>Modern Service!</h4>
-						<span>Kolis Mullar</span>
+						<h4>Atendimento Exemplar!</h4>
+						<span>Sartori Mioto</span>
 						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+						Excelente, desde a recepcionista ao advogado que me atendeu, muito educados e sempre atenciosos ao meu caso. Recomendo!
 						</p>
 					</div>
 					<i class="icofont-quote-right"></i>
@@ -335,9 +331,9 @@ require_once('header.php')
 		<div class="row justify-content-center">
 			<div class="col-lg-7">
 				<div class="section-title text-center">
-					<h2>Partners who support us</h2>
+					<h2>Nossos Parceiros</h2>
 					<div class="divider mx-auto my-4"></div>
-					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
+					<p>Empresas e apoiadores que confiam no escritório silveira advogados. </p>
 				</div>
 			</div>
 		</div>
