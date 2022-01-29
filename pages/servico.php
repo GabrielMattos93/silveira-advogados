@@ -28,9 +28,9 @@ require_once('header.php')
 		<div class="row justify-content-center">
 			<div class="col-lg-7 text-center">
 				<div class="section-title">
-					<h2>Award winning patient care</h2>
+					<h2>Serviços que Oferecemos</h2>
 					<div class="divider mx-auto my-4"></div>
-					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
+					<p>Veja a lista de todos os serviços que você vai encontrar em nosso escritório.</p>
 				</div>
 			</div>
 		</div>
@@ -40,7 +40,7 @@ require_once('header.php')
 				<div class="department-block mb-5">
 					<img src="assets/images/service/service-1.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
-						<h4 class="mt-4 mb-2 title-color">Opthomology</h4>
+						<h4 class="mt-4 mb-2 title-color">Imigração Para Europa</h4>
 						<p class="brt-4">Saepe nulla praesentium eaque omnis perferendis a dolorem.</p>
 					</div>
 				</div>
@@ -50,7 +50,7 @@ require_once('header.php')
 				<div class="department-block mb-5">
 					<img src="assets/images/service/service-2.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
-						<h4 class="mt-4 mb-2  title-color">Cardiology</h4>
+						<h4 class="mt-4 mb-2  title-color">Previdenciário, Inss e Aposentadoria</h4>
 						<p class="brt-4">Saepe nulla praesentium eaque omnis perferendis a dolorem.</p>
 					</div>
 				</div>
@@ -60,7 +60,7 @@ require_once('header.php')
 				<div class="department-block mb-5">
 					<img src="assets/images/service/service-3.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
-						<h4 class="mt-4 mb-2 title-color">Dental Care</h4>
+						<h4 class="mt-4 mb-2 title-color">Advogado Online</h4>
 						<p class="brt-4">Saepe nulla praesentium eaque omnis perferendis a dolorem.</p>
 					</div>
 				</div>
@@ -71,7 +71,7 @@ require_once('header.php')
 				<div class="department-block  mb-5 mb-lg-0">
 					<img src="assets/images/service/service-4.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
-						<h4 class="mt-4 mb-2 title-color">Child Care</h4>
+						<h4 class="mt-4 mb-2 title-color">Assessoria Empresarial</h4>
 						<p class="brt-4">Saepe nulla praesentium eaque omnis perferendis a dolorem.</p>
 					</div>
 				</div>
@@ -81,21 +81,12 @@ require_once('header.php')
 				<div class="department-block mb-5 mb-lg-0">
 					<img src="assets/images/service/service-6.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
-						<h4 class="mt-4 mb-2 title-color">Pulmology</h4>
+						<h4 class="mt-4 mb-2 title-color">Elaboração de Contratos</h4>
 						<p class="brt-4">Saepe nulla praesentium eaque omnis perferendis a dolorem.</p>
 					</div>
 				</div>
 			</div>
-			
-			<div class="col-lg-4 col-md-6">
-				<div class="department-block mb-5 mb-lg-0">
-					<img src="assets/images/service/service-8.jpg" alt="" class="img-fluid w-100">
-					<div class="content">
-						<h4 class="mt-4 mb-2 title-color">Gynecology</h4>
-						<p class="brt-4">Saepe nulla praesentium eaque omnis perferendis a dolorem.</p>
-					</div>
-				</div>
-			</div>
+	
 		</div>
 	</div>
 </section>

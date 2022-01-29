@@ -12,7 +12,7 @@ require_once('header.php')
 				<div class="block">
 					<div class="divider mb-3"></div>
 					<span class="text-uppercase text-sm letter-spacing ">Assessoria Jurídica Especializada</span>
-					<h1 class="mb-3 mt-3">Ajudando a viablizar ideias e analisar riscos jurídicos.</h1>
+					<h1 class="mb-3 mt-3">Ajudando a viabilizar ideias e analisar riscos jurídicos.</h1>
 					
 					<p class="brt-4 pr-5">Somos um conceituado escritório de advogados do Brasil e temos por objetivo prestar serviços jurídicos com alto padrão de qualidade e excelência.</p>
 					<div class="btn-container ">

@@ -30,23 +30,23 @@ require_once('header.php')
          <div class="row">
             <div class="col-lg-4 col-sm-6 col-md-6">
                 <div class="contact-block mb-4 mb-lg-0">
-                    <i class="icofont-live-support"></i>
-                    <h5>Call Us</h5>
-                     <p class="brt-4">+823-4565-13456
+                <i class="icofont-phone-circle"></i>
+                    <h5>Telefone</h5>
+                     <p class="brt-4">(21) 2899-7526
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 col-md-6">
                 <div class="contact-block mb-4 mb-lg-0">
                     <i class="icofont-support-faq"></i>
-                    <h5>Email Us</h5>
-                    <p class="brt-4"> contact@mail.com
+                    <h5>Email</h5>
+                    <p class="brt-4"> rauloliver@adv.com.br
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 col-md-6">
                 <div class="contact-block mb-4 mb-lg-0">
                     <i class="icofont-location-pin"></i>
-                    <h5>Location</h5>
-                   <p class="brt-4"> North Main Street,Brooklyn Australia
+                    <h5>Endereço</h5>
+                   <p class="brt-4">Rua Nova Lisboa, Campo Alegre - Nova Iguaçu - RJ
                 </div>
             </div>
         </div>
@@ -63,7 +63,7 @@ require_once('header.php')
                 <div class="section-title text-center">
                     <h2 class="text-md mb-2">Contate-nos</h2>
                     <div class="divider mx-auto my-4"></div>
-                    <p class="mb-5">Laboriosam exercitationem molestias beatae eos pariatur, similique, excepturi mollitia sit perferendis maiores ratione aliquam?</p>
+                    <p class="mb-5">Entre em contato conosco, tire todas as suas dúvidas ou agende uma visita em nosso escritório.</p>
                 </div>
             </div>
         </div>
@@ -74,7 +74,7 @@ require_once('header.php')
                     <div class="row">
                         <div class="col-12">
                             <div class="alert alert-success contact__msg" style="display: none" role="alert">
-                                Your message was sent successfully.
+                                <!-- Your message was sent successfully. -->
                             </div>
                         </div>
                     </div>
@@ -82,33 +82,33 @@ require_once('header.php')
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="form-group">
-                                <input name="name" id="name" type="text" class="form-control" placeholder="Your Full Name" >
+                                <input name="name" id="name" type="text" class="form-control" placeholder="Digite Nome Completo" >
                             </div>
                         </div>
 
                         <div class="col-lg-6">
                             <div class="form-group">
-                                <input name="email" id="email" type="email" class="form-control" placeholder="Your Email Address">
+                                <input name="email" id="email" type="email" class="form-control" placeholder="Digite seu email">
                             </div>
                         </div>
                          <div class="col-lg-6">
                             <div class="form-group">
-                                <input name="subject" id="subject" type="text" class="form-control" placeholder="Your Query Topic">
+                                <input name="subject" id="subject" type="text" class="form-control" placeholder="Digite o assunto">
                             </div>
                         </div>
                          <div class="col-lg-6">
                             <div class="form-group">
-                                <input name="phone" id="phone" type="text" class="form-control" placeholder="Your Phone Number">
+                                <input name="phone" id="phone" type="text" class="form-control" placeholder="Digite seu telefone">
                             </div>
                         </div>
                     </div>
 
                     <div class="form-group-2 mb-4">
-                        <textarea name="message" id="message" class="form-control" rows="8" placeholder="Your Message"></textarea>
+                        <textarea name="message" id="message" class="form-control" rows="8" placeholder="Mensagem"></textarea>
                     </div>
 
                     <div class="text-center">
-                        <input class="btn btn-main btn-round-full" name="submit" type="submit" value="Send Messege"></input>
+                        <input class="btn btn-main btn-round-full" name="submit" type="submit" value="Enviar"></input>
                     </div>
                 </form>
             </div>
